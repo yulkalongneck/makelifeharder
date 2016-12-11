@@ -1,8 +1,6 @@
 # MakeLifeHarder
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/make_life_harder`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to Make Life Harder! Tired of repetitive two lines of code? Here is a perfect solution. Download, bundle and enjoy free calculator!
 
 ## Installation
 
@@ -22,8 +20,30 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add integers:
 
+    $ MakeLifeHarder.add(1,2,3,4)
+     $ => 10
+Substract integers:
+
+    $ MakeLifeHarder.substract(33,3)
+     $ => 30
+     
+Multiply integers:
+
+    $ MakeLifeHarder.multiply(1,2,3)
+     $ => 6
+     
+Divide integers:
+
+    $ MakeLifeHarder.divide(10,5)
+     $ => 2
+
+Return square of an integer:
+
+    $ MakeLifeHarder.square(4)
+     $ => 16 
+     
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
