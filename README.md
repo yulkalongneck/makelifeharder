@@ -24,7 +24,7 @@ Add integers:
 
     $ MakeLifeHarder.add(1,2,3,4)
      $ => 10
-subtract integers:
+Subtract integers:
 
     $ MakeLifeHarder.subtract(33,3)
      $ => 30
