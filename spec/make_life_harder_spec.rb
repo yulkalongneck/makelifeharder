@@ -11,7 +11,7 @@ describe MakeLifeHarder do
   end
 
   it "subtracts multiple integers" do
-    expect(MakeLifeHarder.substract(9,2,3)).to eq 4
+    expect(MakeLifeHarder.subtract(9,2,3)).to eq 4
   end
 
   it "multiplies multiple integers" do
