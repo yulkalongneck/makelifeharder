@@ -6,7 +6,7 @@ module MakeLifeHarder
       numbers.inject(:+)
     end
 
-    def self.substract(*numbers)
+    def self.subtract(*numbers)
       numbers.inject(:-)
     end
 

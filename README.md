@@ -24,16 +24,16 @@ Add integers:
 
     $ MakeLifeHarder.add(1,2,3,4)
      $ => 10
-Substract integers:
+Subtract integers:
 
-    $ MakeLifeHarder.substract(33,3)
+    $ MakeLifeHarder.subtract(33,3)
      $ => 30
-     
+
 Multiply integers:
 
     $ MakeLifeHarder.multiply(1,2,3)
      $ => 6
-     
+
 Divide integers:
 
     $ MakeLifeHarder.divide(10,5)
@@ -42,8 +42,8 @@ Divide integers:
 Return square of an integer:
 
     $ MakeLifeHarder.square(4)
-     $ => 16 
-     
+     $ => 16
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
@@ -52,10 +52,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/make_life_harder.
+Bug reports and pull requests are welcome on GitHub at https://github.com/yulkalongneck/make_life_harder.
 
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
